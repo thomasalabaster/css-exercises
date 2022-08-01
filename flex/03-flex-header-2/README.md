@@ -8,7 +8,7 @@ This is also the first example where you'll be nesting flex containers inside ea
 
 ## Desired outcome
 As with the last example, this one needs to be flexible in the middle, with items pushed to the left and right.
-
+    
 ![png](./desired-outcome.png)
 
 ![gif](./desired-outcome.gif)
